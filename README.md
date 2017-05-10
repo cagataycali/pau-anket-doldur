@@ -1,4 +1,4 @@
-# Pamukkale Üniversitesi - Pusula Değerlendirme Anketi Otomatik Doldurma
+### Pamukkale Üniversitesi - Pusula Değerlendirme Anketi Otomatik Doldurma :pencil:
 
 Merhabalar,
 
@@ -16,7 +16,7 @@ Pusula ÖBS'de jQuery mevcut. Bunu tarayıcımızın console'undan kontrol edebi
 
 Komutlarımızı ```>``` (büyüktür) işareti ile işaretli yere yazacağız.
 
-jQuery'i kontrol etmek için;
+#### :dart: jQuery'i kontrol etmek için;
 
 ``` javascript
 > window.$ === $ ? 'jQuery mevcut..' : 'jQuery mevcut değil..'
@@ -24,7 +24,7 @@ jQuery'i kontrol etmek için;
 ```
 ![jquery](jquery.png)
 
-Ardından katılıyorum seçmeli butonlarını işaretlettirelim.
+#### :dart: Ardından katılıyorum seçmeli butonlarını işaretlettirelim.
 
 ```javascript
 $('[type="radio"]').each((value, key) => {
@@ -38,7 +38,7 @@ Bu komutu çalıştırdıktan sonra değerlendirme anketimiz benzer bir görünt
 
 ![anket](anket.png)
 
-Anketi gönder butonuna basarak değerlendirme anketini tamamlayabilirsiniz.
+#### :dart: Anketi gönder butonuna basarak değerlendirme anketini tamamlayabilirsiniz.
 
 > Dipnot: Kesinlikle katılıyorum'u işaretlemek istiyorsanız,
 ```javascript
@@ -64,6 +64,6 @@ $('[type="radio"]').each((value, key) => {
   }
 });
 ```
-Komutlarını kullanabilirsiniz.
+Komutlarını kullanabilirsiniz. :trollface:
 
 ![tesekkurler](tesekkurler.png)
