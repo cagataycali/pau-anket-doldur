@@ -9,6 +9,8 @@ Kimi zaman sınava gitmeden önce anket formu ile karşılaşıyoruz ve bu yüzd
 Bu durumu hızlı bir şekilde lehimize çevirebileceğimiz basit bir yöntem var.
 Pusula ÖBS'de jQuery mevcut. Bunu tarayıcımızın console'undan kontrol edebiliriz.
 
+![gif](https://media.giphy.com/media/Zw8zlRA1bON7a/giphy.gif)
+
 * Ctrl+Shift+J (Windows / Linux) veya Cmd+Opt+J (Mac) kısa yolları ile tarayıcı geliştirici panelini açabilirsiniz.
 * Hali hazırda açık ise ```console``` butonuna basmalısınız.
 
