@@ -68,9 +68,13 @@ $('[type="radio"]').each((value, key) => {
 ```
 Komutlarını kullanabilirsiniz. :trollface:
 
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nimelepbpejjlbmoobocpfnjhihnpked.svg)](https://chrome.google.com/webstore/detail/pusula-anket-doldurucu/hpmkhgdfjahkdiolbiilkieijjkchbje)
+
 Bunlarla uğraşmak itemiyorum diyorsanız pusula-anket-doldur.crx dosyasını chrome da uzantılar sayfasının üzerine sürükleyip bırakarak bu işlemi yapan plugini ekleyebilirsiniz.
 
 ![Chrome-extension](chrome-extension.png)
+
+
 
 
 ![tesekkurler](tesekkurler.png)
