@@ -68,7 +68,7 @@ $('[type="radio"]').each((value, key) => {
 ```
 Komutlarını kullanabilirsiniz. :trollface:
 
-Bunlarla uğraşmak itemiyorum diyorsanız pusula-anket-doldur.crx dosyasını chrome da açarak bu işlemi yapan plugini ekleyebilirsiniz.
+Bunlarla uğraşmak itemiyorum diyorsanız pusula-anket-doldur.crx dosyasını chrome da uzantılar sayfasının üzerine sürükleyip bırakarak bu işlemi yapan plugini ekleyebilirsiniz.
 
 ![Chrome-extension](chrome-extension.png)
 
